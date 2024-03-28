@@ -115,18 +115,5 @@
         "tags": ["প্রেম", "কাব্য"],
         "publisher": "অনন্যা",
         "yearOfPublishing": 1985
-    },
-    {
-        "bookId": 10,
-        "bookName": "শঙ্খের রাত্রি",
-        "author": "মনু মনোয়ারা",
-        "image": "shongkher_ratri.jpg",
-        "review": "একটি প্রেমের উপন্যাস যা মানুষের ভালোবাসার গল্প নিয়ে আলোচনা করে।",
-        "totalPages": 160,
-        "rating": 4.1,
-        "category": "উপন্যাস",
-        "tags": ["প্রেম", "ভালোবাসা"],
-        "publisher": "অনন্যা",
-        "yearOfPublishing": 2008
     }
 ]
